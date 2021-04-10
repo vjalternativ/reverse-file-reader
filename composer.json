@@ -1,0 +1,11 @@
+{
+	"name" : "vizzy-php/reverse-file-reader",
+	"description" : "to read file in reverse order",
+	"type" : "library",
+	"license" : "MIT",
+	"autoload" : {
+		"psr-4" : {
+			"vizzy\\php\\lib\\file\\" : "src"
+		}
+	}
+}

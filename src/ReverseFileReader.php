@@ -1,4 +1,5 @@
 <?php
+namespace vizzy\php\lib\file;
 
 // References : http://www.geekality.net/2011/05/28/php-tail-tackling-large-files/
 class ReverseFileReader
